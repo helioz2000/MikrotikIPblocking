@@ -39,6 +39,7 @@ use Getopt::Std;
 use Sys::Syslog qw(:DEFAULT setlogsock);
 
 use vars qw($error_msg $debug);
+use lib "/usr/share/mtik";              # the location Mtik.pm
 use Mtik;
 
 $Mtik::debug = 0;
