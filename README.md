@@ -7,7 +7,7 @@ It works in conjunction with a Mikrotik router (RouterOS) to detect unauthorised
 
 Adjust configuration parameters in *mtik_add_ip.pl* to suit your environment.
 
-###File locations:
+**File locations:**
 
 `/usr/share/mtik/`:
 
