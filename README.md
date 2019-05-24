@@ -12,7 +12,7 @@ Adjust configuration parameters in *mtik_add_ip.pl* to suit your environment.
 
 `/usr/share/mtik/`:
 
-    mikrotik.hs
+    mikrotik.sh
     mtik_add_ip.pl
     Mtik.pm
 
